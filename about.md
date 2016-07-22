@@ -30,4 +30,3 @@ Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programm
 - Indonesia Malware Summit Bandung, 2015
 - Temu Komunitas Depok, 2014
 - Kreatifitas Pemuad Berbasis IT dalam Mendukung Depok Cyber City, 2013
-
