@@ -14,10 +14,10 @@ Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programm
 - Award, Indonesia Android Kejar 2016
 - 1st, LKS (Lomba Kejuruan Siswa) Depok 2014
 - 4th, UI/UX Competition Hardsoftware 2014
-- Award, Software Informer. USA
+- Award, Software Informer. USA, 2014
 - 2nd, AKSI (Ajang Kreativitas Siswa Indonesia) 2014
-- Winner, INAICTA 2014
 - Merrit, APICTA 2014
+- Winner, INAICTA 2014
 - Winner, Design Contest (SAKHUSA) Depok 2013
 - 4th, Intel Design Contest Depok 2013
 - 2nd, Antivirus Competition, Singapore 2012
