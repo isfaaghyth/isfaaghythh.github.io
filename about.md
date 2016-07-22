@@ -5,6 +5,8 @@ permalink: /about/
 tags: about
 ---
 
+Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Science di Nurul Fikri Institute of Technology (STT Nurul Fikri) Indonesia.
+
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
