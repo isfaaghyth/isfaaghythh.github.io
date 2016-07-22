@@ -5,20 +5,10 @@ permalink: /about/
 tags: about
 ---
 
-Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Science di Nurul Fikri Institute of Technology (STT Nurul Fikri) Indonesia.
+Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Science di Nurul Fikri Institute of Technology (STT Nurul Fikri) Indonesia. Saya asli keturunan *Daeng* Makassar, lahir dalam kondisi Sehat wall hafiat tapi divonis oleh dokter bersalin "udah meninggal" karena waktu itu katanya saya tidak bernafas selama sejam. Saya lahir dikeluarga seni, hampir semua keluarga saya menyukai kesenian.
 
-Sejak duduk dibanku Sekolah Dasar, saya bercita-cita ingin menjadi fisikawan dan matematikawan yang berbau *scientist*, pokoknya yang berbau logika, hitung-menghitung, rumus dan sampe pengen jadi ilmuwan. Tapi saya lahir dikeluarga yang kental dengan seni rupa, alhasil dulu saya seorang seniman dan pernah jadi juara lomba lukis tingkat provinsi sulsel *horee!*. Seiring berkembangnya waktu, saya mendalami teknologi dibidang *software engineering*.
+Sejak kecil, saya bercita-cita ingin menjadi fisikawan dan matematikawan, pokoknya yang *scientist*-lah dan sampe pengen jadi ilmuwan. Seiring berkembangnya waktu, saya mendalami teknologi dibidang *software engineering*, *programming* karena suka dengan logika dan algoritmanya.
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Saat ini saya mendirikan sebuah startup software house bernama [Daeng Indonesia](https://daeng.id)(DaengApps), dan aktif dalam organisasi [aBraincode](http://abraincode.web.id). Saat ini saya menekuni dibidang *programming*, *UI/UX design*, dan senang berkontribusi FOSS [Githubku](https://github.com/isfaaghyth).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Blog ini akan jadi blog utamaku ~~semenjak sakit hati domain gratisan isfa.cf diperjual-belikan oleh freenom~~. Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programming* atau *design* akan ku bagikan disini beserta pengalaman hidup yang menurut saya bernilai untuk dibagikan.
