@@ -20,8 +20,8 @@ Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programm
 - Merrit, APICTA 2014
 - Winner, Design Contest (SAKHUSA) Depok 2013
 - 4th, Intel Design Contest Depok 2013
-- Winner, O2SN Painting Competition Sulawesi Selatan 2007
 - 2nd, Antivirus Competition, Singapore 2012
+- Winner, O2SN Painting Competition Sulawesi Selatan 2007
 
 ## Pembicara
 
