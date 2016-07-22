@@ -9,7 +9,7 @@ Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Sc
 
 Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programming* atau *design* akan ku bagikan disini beserta pengalaman hidup yang menurut saya bernilai untuk dibagikan.
 
-## Penghargaan
+## penghargaan
 
 - Award, Indonesia Android Kejar 2016
 - 1st, LKS (Lomba Kejuruan Siswa) Depok 2014
@@ -23,7 +23,7 @@ Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programm
 - 2nd, Antivirus Competition, Singapore 2012
 - Winner, O2SN Painting Competition Sulawesi Selatan 2007
 
-## Pembicara
+## pembicara
 
 - How to create game?, 2016
 - (Workshop) Muslim Creative Design, 2016
