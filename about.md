@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Science di Nurul Fikri Institute of Technology ([STT Nurul Fikri](http://unf.ac.id)) dan Pendiri Startup Sotware House [Daeng Indonesia](https://daeng.id). Saya lahir di Sulawesi Selatan, asli keturunan *Daeng*. Sejak kecil, saya bercita-cita ingin menjadi ahli *scientist* karena suka yang berhubungan dengan numerik, logika, hitung-menghitung, dan sebagainya. Seiring berkembangnya teknologi, saat ini saya fokus dibidang *software engineering*, *programming*, dan *UX/UI Design*.
+Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Science di Nurul Fikri Institute of Technology ([STT Nurul Fikri](http://unf.ac.id)) dan Pendiri Startup Software House [Daeng Indonesia](https://daeng.id). Saya lahir di Sulawesi Selatan, asli keturunan *Daeng*. Sejak kecil, saya bercita-cita ingin menjadi ahli *scientist* karena suka yang berhubungan dengan numerik, logika, hitung-menghitung, dan sebagainya. Seiring berkembangnya teknologi, saat ini saya fokus dibidang *software engineering*, *programming*, dan *UX/UI Design*.
 
 Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programming* atau *design* akan ku bagikan disini beserta pengalaman hidup yang menurut saya bernilai untuk dibagikan.
 
