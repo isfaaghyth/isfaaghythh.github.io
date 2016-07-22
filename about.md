@@ -10,14 +10,18 @@ Halo, Nama saya Muh Isfahani Ghiyath YM, panggil aja Isfa. Mahasiswa Computer Sc
 Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programming* atau *design* akan ku bagikan disini beserta pengalaman hidup yang menurut saya bernilai untuk dibagikan.
 
 # Penghargaan
-Winner, O2SN Painting Competition Sulawesi Selatan 2007
-2nd, Antivirus Competition, Singapore 2012
-Winner, Design Contest (SAKHUSA) Depok 2013
-4th, Intel Design Contest Depok 2013
-Winner, INAICTA 2014
-Merrit, APICTA 2014
-2nd, AKSI (Ajang Kreativitas Siswa Indonesia) 2014
-Award, Software Informer. USA
-4th, UI/UX Competition Hardsoftware 2014
-1st, LKS (Lomba Kejuruan Siswa) Depok 2014
-Award, Indonesia Android Kejar 2016
+
+- Winner, O2SN Painting Competition Sulawesi Selatan 2007
+- 2nd, Antivirus Competition, Singapore 2012
+- Winner, Design Contest (SAKHUSA) Depok 2013
+- 4th, Intel Design Contest Depok 2013
+- Winner, INAICTA 2014
+- Merrit, APICTA 2014
+- 2nd, AKSI (Ajang Kreativitas Siswa Indonesia) 2014
+- Award, Software Informer. USA
+- 4th, UI/UX Competition Hardsoftware 2014
+- 1st, LKS (Lomba Kejuruan Siswa) Depok 2014
+- Award, Indonesia Android Kejar 2016
+
+# Pembicara
+
