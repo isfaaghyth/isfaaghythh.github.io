@@ -25,7 +25,7 @@ Karena berbagi adalah Fitra manusia, apapun yang saya ketahui dibidang *programm
 
 ## Pembicara
 
-- How to crate game?, 2016
+- How to create game?, 2016
 - (Workshop) Muslim Creative Design, 2016
 - Indonesia Malware Summit Bandung, 2015
 - Temu Komunitas Depok, 2014
