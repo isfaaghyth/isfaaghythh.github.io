@@ -6,7 +6,7 @@ summary:    Berikut tutorial cara melakukan CRUD di Android dengan menggunakan j
 categories: Android
 ---
 
-Berikut tutorial cara melakukan CRUD di Android dengan menggunakan json dan librari volley. Tutorial kali ini saya tidak akan bahas secara spesifik mengenai penjelasan dibeberapa komponen seperti json, webservices, dsb., jadi saya sarankan baca terlebih dahulu mengenai hal-hal tersebut. Sebelum develop, hal yang biasa saya lakukan terlebih dahulu yaitu membuat rancangan seperti arsitektur database, mockup aplikasi, dan sebagainya. 
+Berikut tutorial cara melakukan CRUD di Android dengan menggunakan json dan librari volley. Tutorial kali ini saya tidak akan bahas secara spesifik mengenai penjelasan dibeberapa komponen seperti json, webservices, dsb., jadi saya sarankan baca terlebih dahulu mengenai hal-hal tersebut. Sebelum develop, hal yang biasa saya lakukan yaitu membuat rancangan seperti arsitektur database, mockup aplikasi, dan sebagainya. 
 
 Untuk arsitektur databasenya, seperti ini:
 ![desk](https://s19.postimg.org/tuv3a032r/image.jpg)
