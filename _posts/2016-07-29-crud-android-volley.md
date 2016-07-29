@@ -2,12 +2,15 @@
 layout:     post
 title:      CRUD Android dengan Volley
 date:       2016-07-29 22:46:00
-summary:    Hello World
+summary:    Berikut tutorial cara melakukan CRUD di Android dengan menggunakan json dan librari volley. Tutorial kali ini saya tidak akan bahas secara spesifik mengenai penjelasan dibeberapa komponen seperti json, webservices, dsb., jadi saya sarankan baca terlebih dahulu mengenai hal-hal tersebut.
 categories: Android
 ---
 
-Berikut tutorial cara melakukan CRUD di Android dengan menggunakan json dan librari volley. Tutorial kali ini saya tidak akan bahas secara spesifik untuk penjelasan dibeberapa komponen, silahkan gugel terlebih dahulu mengenai "Apa itu json?", "Apa itu volley?", dsb.
+Berikut tutorial cara melakukan CRUD di Android dengan menggunakan json dan librari volley. Tutorial kali ini saya tidak akan bahas secara spesifik mengenai penjelasan dibeberapa komponen seperti json, webservices, dsb., jadi saya sarankan baca terlebih dahulu mengenai hal-hal tersebut. Sebelum develop, hal yang biasa saya lakukan terlebih dahulu yaitu membuat rancangan seperti arsitektur database, mockup aplikasi, dan sebagainya. 
 
-![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+Untuk arsitektur databasenya, seperti ini:
+![desk](https://s19.postimg.org/tuv3a032r/image.jpg)
 
-_![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)_
+Dan kurang lebih tampilannya akan seperti ini (ini hanya mockup, ~nanti di tutorial selanjutnya saya akan share cara membuat mockup di design editor~):
+![desk](https://s19.postimg.org/mg5rhmh77/image.jpg)
+
