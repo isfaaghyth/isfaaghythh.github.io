@@ -18,15 +18,20 @@ Sekarang, buat sebuah project baru di android studio dengan nama dan company dom
 ![desk]()
 
 Nah, pertama-tama kita harus tambahkan sebuah library ([gradle](https://en.wikipedia.org/wiki/Gradle)) di project kita.
+
 pertama, volley.
 `'com.mcxiaoke.volley:library:1.0.19'`, library ini berfungsi sebagai HTTP Request. Kita dapat melakukan `POST` ataupun `GET` pada layanan web services kita.
+
 kedua, recyclerview.
 `'com.android.support:recyclerview-v7:23.3.0'`, library ini sama seperti listview, tapi recyclerview ini lebih customize dan teknologi baru yang dibuat oleh Google sebagai pengganti listview.
+
 ketiga, cardview.
 `'com.android.support:cardview-v7:23.3.0'`, library ini sebagai listitem di recyclerview.
+
 keempat, gson.
 `'com.google.code.gson:gson:2.6.1'`, library ini sebagai converter json kedalam bentuk objek.
 Setelah library ditambahkan, pertama-tama kita melakukan design layout dulu.
+
 
 Untuk activity_main.xml
 {% highlight xml %}
