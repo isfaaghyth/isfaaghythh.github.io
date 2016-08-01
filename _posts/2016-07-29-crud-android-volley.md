@@ -457,8 +457,7 @@ Lalu bagaimana caranya kita mengirim data dari `activity1` ke `activity2` ? Cara
 
 Untuk array `resultsList` berasal dari class gson yang sudah kita buat sebelumnya, lalu mengambil data sesuai nama object dari json tersebut.
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/isfaaghyth/CRUD-Android/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/isfaaghyth/CRUD-Android/network" data-count-api="/repos/isfaaghyth/CRUD-Android#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork isfaaghyth/CRUD-Android on GitHub">Fork</a>
+`[FORK :)](https://github.com/isfaaghyth/CRUD-Android/)`
 
 Nah, mungkin cuman sedikit aja yang bisa saya jelaskan. Bagi yang kesulitan silahkan di fork projectnya dan berkomentar.
 
