@@ -10,15 +10,15 @@ Assalamualaikum Wr.Wb. Halo, Berikut tutorial cara melakukan CRUD di Android den
 
 Untuk arsitektur databasenya, seperti ini:
 
-![desk](https://postimg.org/image/6gx7saxsf/][img]https://s19.postimg.org/6gx7saxsf/image.jpg)
+![desk](https://s19.postimg.org/i617g9or7/image.jpg)
 
 Dan kurang lebih tampilannya akan seperti ini (ini hanya mockup, `nanti di tutorial selanjutnya saya akan share cara membuat mockup di design editor`):
 
-![desk](https://postimg.org/image/qct77uetr/][img]https://s19.postimg.org/qct77uetr/image.jpg)
+![desk](https://s19.postimg.org/niq1uecnn/image.jpg)
 
 Sekarang, buat sebuah project baru di android studio dengan nama dan company domain bebas. Untuk minimum SDK pilih API Kitkat saja. Nanti hasil akhir struktur project kita seperti ini:
 
-![desk](https://postimg.org/image/x5tk445n3/][img]https://s19.postimg.org/x5tk445n3/struktur.png)
+![desk](https://s19.postimg.org/jc57f2d1v/struktur.png)
 
 Nah, pertama-tama kita harus tambahkan sebuah library ([gradle](https://en.wikipedia.org/wiki/Gradle)) di project kita.
 
@@ -421,7 +421,7 @@ Lihat kode dibawah ini:
 
 Sebagai contoh, saya sudah siapkan data dan web services nya di sharedhost saya. dan output jsonnya seperti ini:
 
-![desk](https://postimg.org/image/rgdbjszgv/][img]https://s19.postimg.org/rgdbjszgv/json_output.png)
+![desk](https://s19.postimg.org/jav9lnb83/json_output.png)
 
 Dari output tersebut, kita bisa lihat bahwa datanya berada didalam array 'belajar'. Maka, untuk mengonversi kedalam bentuk object menggunakan gson, kita membutuhkan kode seperti dibawah ini:
 
