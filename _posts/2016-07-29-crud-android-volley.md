@@ -457,7 +457,7 @@ Lalu bagaimana caranya kita mengirim data dari `activity1` ke `activity2` ? Cara
 
 Untuk array `resultsList` berasal dari class gson yang sudah kita buat sebelumnya, lalu mengambil data sesuai nama object dari json tersebut.
 
-##[FORK :)](https://github.com/isfaaghyth/CRUD-Android/)
+[Fork in here](https://github.com/isfaaghyth/CRUD-Android/)
 
 Nah, mungkin cuman sedikit aja yang bisa saya jelaskan. Bagi yang kesulitan silahkan di fork projectnya dan berkomentar.
 
