@@ -22,13 +22,22 @@ Nah, dari masalah-masalah yang terjadi, kami dari DaengApps menciptakan sebuah s
 
 Weblocker adalah sebuah tools untuk mendeteksi konten pornografi dan melakukan pengawasan aktivitas browsing yang terjadi di komputer dan terintegrasi ke perangkat mobile. Weblocker ditujukan untuk memonitor laptop dan komputer milik anak agar dapat dipantau oleh orng tua. Sehingga, mencegah dampak pornografi yang lebih lanjut.
 
+berikut mockup aplikasi:
+
+![desk](https://s19.postimg.org/60ddrzour/bandicam_2016_07_13_20_03_56_579.jpg)
+
+untuk versi mobile:
+
+![desk](https://s19.postimg.org/vxbnichvz/photo_2016_07_14_21_16_42.jpg)
+![desk](https://s19.postimg.org/ey2p336of/photo_2016_07_14_21_16_44.jpg)
+
 ## lalu apa aja sih fitur dalam penanggulangan pornografi di WeBlocker ?
 
 Dibandingkan dengan INSAN (Internet Sehat dan Aman) yang dimiliki KOMINFO, weblocker mempunyai teknologi dan algoritma yang lebih mumpuni, karena pendeteksian yang lebih mendalam dan detail dengan beberapa metode pendeteksian terhadap penerapan filtering seperti pendeteksian berdasarkan teks, pendeteksian berdasarkan nama situs atau domain name server, atau berdasarkan citra yaitu image processing dan video detection. 
 
 
-Kami berawal dari sebuah masalah dan menciptakan sebuah solusi. Dengan hadirnya ![#1000StartupDigital](http://1000startupdigital.id/) mampu membantu kami dalam menyelesaikan masalah tersebut dan mengembangkan solusi yang sudah kami kerjakan. 
+Kami berawal dari sebuah masalah dan menciptakan sebuah solusi. Dengan hadirnya [#1000StartupDigital](http://1000startupdigital.id/) mampu membantu kami dalam menyelesaikan masalah tersebut dan mengembangkan solusi yang sudah kami kerjakan. 
 
-Diharapkan dengan program ini, kami dapat terbantu dalam proses penyempurnaan produk tersebut, baik secara teknis maupun komersial agar Indonesia terhindar dari _Pornografi_.
+Diharapkan dengan program ini, kami dapat terbantu dalam proses penyempurnaan produk tersebut, baik secara teknis maupun secara marketing agar Indonesia terhindar dari _Pornografi_.
 
 
