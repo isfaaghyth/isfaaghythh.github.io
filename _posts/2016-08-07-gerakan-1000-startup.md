@@ -28,8 +28,8 @@ berikut mockup aplikasi:
 
 untuk versi mobile:
 
-![desk](https://s19.postimg.org/vxbnichvz/photo_2016_07_14_21_16_42.jpg)
-![desk](https://s19.postimg.org/ey2p336of/photo_2016_07_14_21_16_44.jpg)
+![desk](https://s19.postimg.org/mcs0vgsk3/photo_2016_07_14_21_16_42.jpg)
+![desk](https://s19.postimg.org/br85jgm8j/photo_2016_07_14_21_16_44.jpg)
 
 ## lalu apa aja sih fitur dalam penanggulangan pornografi di WeBlocker ?
 
